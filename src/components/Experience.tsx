@@ -1,21 +1,44 @@
+import Section from "@/components/Section";
+
+type Item = {
+  role: string;
+  company: string;
+  period: string;
+  summary: string;
+};
+
+const items: Item[] = [
+  {
+    role: "Senior Developer",
+    company: "Company A",
+    period: "2022 — Present",
+    summary:
+      "Led development of modern React/Next.js apps, improved performance and DX.",
+  },
+  {
+    role: "Frontend Engineer",
+    company: "Company B",
+    period: "2020 — 2022",
+    summary:
+      "Shipped accessible UI components and improved Core Web Vitals.",
+  },
+];
+
 export default function Experience() {
   return (
-    <section id="experience" className="py-20 bg-black/[.03] dark:bg-white/[.03]">
-      <div className="mx-auto max-w-5xl px-4">
-        <h2 className="text-2xl md:text-3xl font-semibold">Experience</h2>
-        <ul className="mt-6 space-y-4 text-black/80 dark:text-white/80">
-          <li>
-            <div className="font-medium">Company A — Senior Developer</div>
-            <div className="text-sm opacity-80">2022 — Present</div>
-            <p className="mt-2">Led development of modern React/Next.js apps with strong DX and performance.</p>
+    <Section id="experience" title="Experience" subtitle="A snapshot of my recent roles.">
+      <ol className="relative border-s pl-6 border-black/10 dark:border-white/10">
+        {items.map((item) => (
+          <li key={item.company + item.role} className="mb-10 ms-4">
+            <span className="absolute -start-[9px] mt-1.5 w-4 h-4 rounded-full border bg-background" />
+            <div className="font-medium">
+              {item.role} — {item.company}
+            </div>
+            <div className="text-xs opacity-70">{item.period}</div>
+            <p className="mt-2 text-black/80 dark:text-white/80">{item.summary}</p>
           </li>
-          <li>
-            <div className="font-medium">Company B — Frontend Engineer</div>
-            <div className="text-sm opacity-80">2020 — 2022</div>
-            <p className="mt-2">Shipped accessible UI components and improved Core Web Vitals.</p>
-          </li>
-        </ul>
-      </div>
-    </section>
+        ))}
+      </ol>
+    </Section>
   );
 }

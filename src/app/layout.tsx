@@ -27,6 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <div className="pointer-events-none fixed inset-0 -z-10 bg-radial-fade bg-grid" aria-hidden="true" />
         {children}
       </body>
     </html>
