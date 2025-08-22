@@ -1,38 +1,56 @@
-👋 Hi, I'm Faisal Abbas
+# 👋 Hi there! I'm Faisal Abbas  
 
-🔧 Full-Stack Developer | Solutions Architect | Tech Enthusiast
+🔧 **Full-Stack Developer | Solutions Architect | Tech Enthusiast**  
 
-With 12+ years of experience in software development and architectural design, I am passionate about building scalable, robust, and user-centric applications. My expertise spans across multiple technologies and frameworks, enabling me to deliver end-to-end solutions that drive business success.
+With over **12 years of experience** in software development and architectural design, I am passionate about building **scalable, robust, and user-centric applications**. My expertise spans a wide range of technologies and frameworks, enabling me to deliver **end-to-end solutions** that drive business success.  
 
-🚀 What I Do
+---
 
-Front-End Development: Crafting intuitive and responsive interfaces with React, Angular, Vue.js, Next.js.
+## 🚀 What I Do  
 
-Back-End Development: Designing efficient APIs and server-side solutions using Node.js, NestJS, Express, Python, Java, PHP (Laravel, CodeIgniter).
+- **Front-End Development**: Crafting intuitive and responsive UIs using **React, Angular, Vue.js**, and **Next.js**.  
+- **Back-End Development**: Designing and implementing efficient server-side solutions with **Node.js, NestJS, Express, Python, and Java**.  
+- **Database Management**: Ensuring data integrity and performance with **SQL, NoSQL**, and **cloud-native databases**.  
+- **Cloud Services**: Leveraging **AWS, Azure, and Google Cloud** for scalable and secure applications.  
+- **DevOps**: Streamlining processes with **CI/CD pipelines**, containerization (**Docker, Kubernetes**), and automation tools.  
+- **Architecture**: Designing **microservices**, event-driven systems, and comprehensive architectures tailored to business needs.  
 
-Database Management: Ensuring data integrity & performance with MySQL, PostgreSQL, MongoDB, Firebase, Supabase.
+---
 
-Cloud Services: Building scalable apps on AWS, Azure, Google Cloud.
+## 🛠️ Tech Stack  
 
-DevOps: Streamlining workflows with CI/CD pipelines, Docker, Kubernetes, Jenkins, Doppler.
+**Languages:** JavaScript, TypeScript, PHP  
+**Front-End:** Next.js, React, Angular, Vue.js, HTML5, CSS3, SASS  
+**Back-End:** NestJS, Node.js, Express, CodeIgniter, Laravel  
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
+**Cloud & DevOps:** AWS, Azure, Google Cloud, Docker, Kubernetes, Jenkins, Doppler, RabbitMQ, Kafka  
+**Other Tools:** GitHub Actions, Prisma ORM, Redis, GraphQL, REST APIs  
 
-Architecture: Designing scalable, high-performance system architectures tailored to business needs.
+---
 
-🛠️ Tech Stack
+## 🌟 Highlights  
 
-Languages: JavaScript, TypeScript, PHP
-Front-End: Next.js, React, Angular, Vue.js, HTML5, CSS3, SASS
-Back-End: NestJS, Node.js, Express, Laravel, CodeIgniter
-Databases: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
-Cloud & DevOps: AWS, Azure, Google Cloud, Docker, Kubernetes, Jenkins, Doppler, RabbitMQ, Kafka
+- 🏗️ Architected and led development of **high-traffic applications**, improving performance and scalability.  
+- ☁️ Spearheaded **cloud migration projects**, reducing operational costs and improving availability.  
+- ⚡ Implemented **CI/CD pipelines**, cutting deployment times and boosting developer productivity.  
+- 👨‍🏫 Mentored and guided **junior developers**, fostering innovation and collaboration across teams.  
+- 🔒 Designed **secure, compliant architectures** for enterprise-grade applications.  
 
-🌟 Highlights
+---
 
-✔️ Architected and led development of multiple high-traffic applications, improving scalability & performance.
-✔️ Spearheaded cloud migration projects, reducing operational costs & boosting availability.
-✔️ Implemented CI/CD pipelines, decreasing deployment times and enhancing development workflows.
-✔️ Mentored and guided junior developers, fostering collaborative and innovative teams.
+## 📈 GitHub Stats  
 
-📫 Get in Touch
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalabbas1&show_icons=true&theme=tokyonight" alt="Faisal's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalabbas1&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>  
 
-📧 Email: faisalabbas112@gmail.com
+---
+
+## 📫 Get in Touch  
+
+- 📧 Email: [faisalabbas112@gmail.com](mailto:faisalabbas443@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/faisal-abbas-29740224](https://linkedin.com/in/faisal-abbas-29740224)  
+- 🌐 Portfolio: [faisalabbas.com](https://[faisalabbas.com](https://faisalabbas1.github.io/))
+
+---
